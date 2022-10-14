@@ -4,14 +4,14 @@ API assessment for Cyderes application, running on Python and (either AWS or GCP
 ## TABLE OF CONTENTS
 -----------------
 
- * Introduction
- * Requirements
- * Recommended modules
- * Installation
- * Configuration
- * Troubleshooting
- * FAQ
- * Maintainers
+ * [Introduction](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#introduction)
+ * [Requirements](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#requirements)
+ * [Recommended modules (/packages)](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#recommended-modules-packages)
+ * [Installation](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#installation)
+ * [Configuration](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#configuration)
+ * [Troubleshooting](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#troubleshooting)
+ * [FAQ](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#faq)
+ * [Maintainers](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#maintainers)
 
 ### INTRODUCTION
 ------------
