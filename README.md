@@ -56,6 +56,6 @@ In order for the testing of this API to have 100% coverage, several status codes
   
   *Since a serverless instance is essentially a server hosted by a cloud vendor, the security of a serverless API is dependent upon the security of the cloud vendor.*
 
-MAINTAINERS
+### MAINTAINERS
 -----------
 Lauren Wheeler (RENgineer)
