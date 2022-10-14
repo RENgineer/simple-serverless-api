@@ -19,13 +19,12 @@ This simple, serverless API was created in order to demonstrate the technical pr
 
 ### REQUIREMENTS
 ------------
-This API uses Python 3, more specifically Python 3.8.5. It also has a dependency on (GCP/AWS), which is necessary for the serverless state.
+This API uses Python 3, more specifically Python 3.8.5. It also has a dependency on (GCP/AWS), which is necessary for its serverless state. It also uses the **requests** package, (add others here) which may require either **pip** or **conda** install via either your command line or IDE.
 (may put required Python packages here)
 
 ### RECOMMENDED MODULES (/PACKAGES)
 -------------------
 (may add recommended VS Code extensions here, if used by others. Also possibly ways to address security concerns)
-This API uses the **requests** package, (add others here) which may require either **pip** or **conda** install via either your command line or IDE.
 
 ### INSTALLATION
 ------------
