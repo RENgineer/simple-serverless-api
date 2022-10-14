@@ -25,6 +25,7 @@ This API uses Python 3, more specifically Python 3.8.5. It also has a dependency
 ### RECOMMENDED MODULES (/PACKAGES)
 -------------------
 (may add recommended VS Code extensions here, if used by others. Also possibly ways to address security concerns)
+This API uses the **requests** package, (add others here) which may require either **pip** or **conda** install via either your command line or IDE.
 
 ### INSTALLATION
 ------------
