@@ -2,7 +2,7 @@
  * Demonstrates a simple HTTP endpoint using API Gateway.
  * 
  * A GET request containing a table name is required to access the DynamoDB
- * table(s) containing either IP or domain info using the tableName query
+ * table(s) containing either IP or domain info using the TableName query
  * string parameter.
  */
 
@@ -55,7 +55,7 @@ exports.handler = async (event, context) => {
     if (response.statusCode != '400') try {
         //attempt the GET request to retrieve enrichment data, reject all other requests since they're unnecessary
         if (event.httpMethod == 'GET') {
-            response.body = await dynamo.scan({ tableName: event.queryStringParameters.tableName }).promise();
+            response.body = await dynamo.scan({ TableName: event.queryStringParameters.TableName }).promise();
         } else {
             response.statusCode = '405';
             headers = [headers, 'Allow: GET'].join(', '); 
