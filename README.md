@@ -1,5 +1,5 @@
 # simple-serverless-api
-API assessment for Cyderes application, running on Python and (either AWS or GCP, haven't decided yet)
+API assessment for Cyderes application, running on Javascript and AWS
 
 ## TABLE OF CONTENTS
 -----------------
@@ -15,11 +15,11 @@ API assessment for Cyderes application, running on Python and (either AWS or GCP
 
 ### INTRODUCTION
 ------------
-This simple, serverless API was created in order to demonstrate the technical proficiency that I have with Python as a software engineer and working with cloud technologies.
+This simple, serverless API was created in order to demonstrate the technical proficiency that I have with p arogramming languages a software engineer and working with cloud technologies.
 
 ### REQUIREMENTS
 ------------
-This API uses Python 3, more specifically Python 3.8.5. It also has a dependency on (GCP/AWS), which is necessary for the serverless state.
+This API uses Node 16.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
 (may put required Python packages here)
 
 ### RECOMMENDED MODULES (/PACKAGES)
@@ -28,7 +28,7 @@ This API uses Python 3, more specifically Python 3.8.5. It also has a dependency
 
 ### INSTALLATION
 ------------
-If not previously installed, Python 3 must be downloaded and installed in order for this API to work. Ensure the version of your Python instance by entering "python --version" in the command line of a terminal.
+If not previously installed, Node.js must be downloaded and installed in order for this API to work. 
 
 ### CONFIGURATION
 -------------
@@ -36,7 +36,7 @@ No extra configuration is required (as of now).
 
 ### TROUBLESHOOTING
 ---------------
-In order for the testing of this API to have 100% coverage, several status codes were added for debugging. They are included with their descriptions within the API itself.
+In order for the testing of this API to have 100% coverage, several status codes were added for debugging. They are included with their descriptions within the index.js file.
 
 ### FAQ
 ---
