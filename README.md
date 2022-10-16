@@ -21,7 +21,7 @@ This simple, serverless API was created in order to demonstrate the technical pr
 
 ### REQUIREMENTS
 ------------
-It uses Node 16.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
+It uses Node 14.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
 
 ### RECOMMENDED MODULES
 -------------------
