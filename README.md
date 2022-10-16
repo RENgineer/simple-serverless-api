@@ -1,5 +1,6 @@
 # simple-serverless-api
-API assessment for Cyderes application, running on JavaScript and AWS
+
+API assessment for Cyderes application, running on Javascript and AWS
 
 ## TABLE OF CONTENTS
 -----------------
@@ -19,7 +20,7 @@ This simple, serverless API was created in order to demonstrate the technical pr
 
 ### REQUIREMENTS
 ------------
-This API uses JavaScript, more specifically Node.js. It also has a dependency on AWS, which is necessary for its serverless state. ~~It also uses the **requests** package, (add others here) which may require either **pip** or **conda** install via either your command line or IDE.~~(may change this line / put required Python packages here)
+It uses Node 16.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
 
 ### RECOMMENDED MODULES
 -------------------
