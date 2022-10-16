@@ -15,12 +15,11 @@ API assessment for Cyderes application, running on Javascript and AWS
 
 ### INTRODUCTION
 ------------
-This simple, serverless API was created in order to demonstrate the technical proficiency that I have with p arogramming languages a software engineer and working with cloud technologies.
+This simple, serverless API was created in order to demonstrate the technical proficiency that I have with programming languages a software engineer and working with cloud technologies.
 
 ### REQUIREMENTS
 ------------
 This API uses Node 16.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
-(may put required Python packages here)
 
 ### RECOMMENDED MODULES (/PACKAGES)
 -------------------
