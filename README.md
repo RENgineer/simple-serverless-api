@@ -1,12 +1,12 @@
 # simple-serverless-api
-API assessment for Cyderes application, running on Python and (either AWS or GCP, haven't decided yet)
+API assessment for Cyderes application, running on JavaScript and AWS
 
 ## TABLE OF CONTENTS
 -----------------
 
  * [Introduction](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#introduction)
  * [Requirements](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#requirements)
- * [Recommended modules (/packages)](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#recommended-modules-packages)
+ * [Recommended modules](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#recommended-modules)
  * [Installation](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#installation)
  * [Configuration](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#configuration)
  * [Troubleshooting](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#troubleshooting)
@@ -15,20 +15,19 @@ API assessment for Cyderes application, running on Python and (either AWS or GCP
 
 ### INTRODUCTION
 ------------
-This simple, serverless API was created in order to demonstrate the technical proficiency that I have with Python as a software engineer and working with cloud technologies.
+This simple, serverless API was created in order to demonstrate the technical proficiency that I have with programming languages as a software engineer as well as working with cloud technologies.
 
 ### REQUIREMENTS
 ------------
-This API uses Python 3, more specifically Python 3.8.5. It also has a dependency on (GCP/AWS), which is necessary for its serverless state. It also uses the **requests** package, (add others here) which may require either **pip** or **conda** install via either your command line or IDE.
-(may put required Python packages here)
+This API uses JavaScript, more specifically Node.js. It also has a dependency on AWS, which is necessary for its serverless state. ~~It also uses the **requests** package, (add others here) which may require either **pip** or **conda** install via either your command line or IDE.~~(may change this line / put required Python packages here)
 
-### RECOMMENDED MODULES (/PACKAGES)
+### RECOMMENDED MODULES
 -------------------
 (may add recommended VS Code extensions here, if used by others. Also possibly ways to address security concerns)
 
 ### INSTALLATION
 ------------
-If not previously installed, Python 3 must be downloaded and installed in order for this API to work. Ensure the version of your Python instance by entering "python --version" in the command line of a terminal.
+If not previously installed, Node.js must be downloaded and installed in order for this API to work. 
 
 ### CONFIGURATION
 -------------
@@ -36,7 +35,7 @@ No extra configuration is required (as of now).
 
 ### TROUBLESHOOTING
 ---------------
-In order for the testing of this API to have 100% coverage, several status codes were added for debugging. They are included with their descriptions within the API itself.
+In order for the testing of this API to have 100% coverage, several status codes were added for debugging. They are included with their descriptions within the index.js file.
 
 ### FAQ
 ---
