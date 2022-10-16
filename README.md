@@ -1,27 +1,29 @@
 # simple-serverless-api
+
 API assessment for Cyderes application, running on Javascript and AWS
 
 ## TABLE OF CONTENTS
 -----------------
 
- * Introduction
- * Requirements
- * Recommended modules
- * Installation
- * Configuration
- * Troubleshooting
- * FAQ
- * Maintainers
+ * [Introduction](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#introduction)
+ * [Requirements](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#requirements)
+ * [Recommended modules](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#recommended-modules)
+ * [Installation](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#installation)
+ * [Configuration](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#configuration)
+ * [Troubleshooting](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#troubleshooting)
+ * [FAQ](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#faq)
+ * [Maintainers](https://github.com/RENgineer/simple-serverless-api/blob/RENgineer-readme-update1/README.md#maintainers)
 
 ### INTRODUCTION
 ------------
-This simple, serverless API was created in order to demonstrate the technical proficiency that I have with programming languages a software engineer and working with cloud technologies.
+
+This simple, serverless API was created in order to demonstrate the technical proficiency that I have with programming languages as a software engineer as well as working with cloud technologies.
 
 ### REQUIREMENTS
 ------------
-This API uses Node 16.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
+It uses Node 16.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
 
-### RECOMMENDED MODULES (/PACKAGES)
+### RECOMMENDED MODULES
 -------------------
 (may add recommended VS Code extensions here, if used by others. Also possibly ways to address security concerns)
 
@@ -55,6 +57,6 @@ In order for the testing of this API to have 100% coverage, several status codes
   
   *Since a serverless instance is essentially a server hosted by a cloud vendor, the security of a serverless API is dependent upon the security of the cloud vendor.*
 
-MAINTAINERS
+### MAINTAINERS
 -----------
 Lauren Wheeler (RENgineer)
