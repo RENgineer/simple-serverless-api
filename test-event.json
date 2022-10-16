@@ -5,7 +5,7 @@
   "httpMethod": "GET",
   "isBase64Encoded": true,
   "queryStringParameters": {
-    "tableName": "enrichmentInfo",
+    "TableName": "enrichmentInfo",
     "ipAddress": "45.33.32.156",
     "domain": "scanme.nmap.org"
   },
