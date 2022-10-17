@@ -1,0 +1,24 @@
+{
+  "path": "/enrichment-requests",
+  "httpMethod": "GET",
+  "headers": {
+    "Accept": "*/*",
+    "Authorization": "eyJraWQiOiJLTzRVMWZs",
+    "content-type": "application/json; charset=UTF-8"
+  },
+  "queryStringParameters": {
+    "TableName": "Enrichment",
+    "ip": "205.251.242.103",
+    "domain": "amazon.com"
+    "coordinates (x,y)": "{{\"Latitude\":47.6174755835663,\"Longitude\":-122.28837066650185}}"
+
+  },
+  "pathParameters": null,
+  "requestContext": {
+    "authorizer": {
+      "claims": {
+        "cognito:username": "the_username"
+      }
+    }
+  },
+}
