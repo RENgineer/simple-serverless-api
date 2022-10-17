@@ -21,19 +21,19 @@ This simple, serverless API was created in order to demonstrate the technical pr
 
 ### REQUIREMENTS
 ------------
-It uses Node 14.x. It also has a dependency on AWS's SDK, which is necessary for the serverless state.
+It uses Node 14.x. It also has a dependency on AWS's SDK and DynamoDB, which are necessary for the serverless state.
 
 ### RECOMMENDED MODULES
 -------------------
-(may add recommended VS Code extensions here, if used by others. Also possibly ways to address security concerns)
+[None]
 
 ### INSTALLATION
 ------------
-If not previously installed, Node.js must be downloaded and installed in order for this API to work. 
+If not previously installed, Node.js must be downloaded and installed in the environment order for this API to work. 
 
 ### CONFIGURATION
 -------------
-No extra configuration is required (as of now).
+No extra configuration is required.
 
 ### TROUBLESHOOTING
 ---------------
@@ -43,7 +43,7 @@ In order for the testing of this API to have 100% coverage, several status codes
 ---
 * How do I run it?
   
-  *Stay tuned for updates...*
+  *You can either enter the URL into Postman with the query parameters outlined in the enrichment-test-event.json file, or enter them directly into a web browser.
 
 * Is a cloud-based API better than an on-premises API?
   
